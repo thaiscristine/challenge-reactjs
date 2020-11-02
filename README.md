@@ -25,7 +25,9 @@
 
 This is a challenge proposed by RocketSeat to practice the basic concepts of ReactJs.
 
-Details of this challenge and many others are available in Portuguese in the amazing [RocketSeat Educational Repository](https://github.com/rocketseat-education)
+Details of this challenge and many others are available in Portuguese in the amazing [RocketSeat Educational Repository](https://github.com/rocketseat-education).
+
+The API used for this frontend is available on [NodeJS Concepts](https://github.com/thaiscristine/challenge-nodejs) challenge repository.
 
 ## Installation 
 Use the package manager yarn to install github_explorer packages.
