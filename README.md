@@ -1,7 +1,7 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios-new.png" />
 
 <h3 align="center">
-  Desafio 03: Conceitos do ReactJS
+  Challenge 03: ReactJS Concepts
 </h3>
 
 <p align="center">
@@ -18,14 +18,14 @@
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">About the challenge</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licença">License</a>
 </p>
 
 ## :rocket: About the challenge
 
 This is a challenge proposed by RocketSeat to practice the basic concepts of ReactJs.
 
-Details of this challenge and many others are available in Portuguese in the amazing [RocketSeat Educational Repository](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs)
+Details of this challenge and many others are available in Portuguese in the amazing [RocketSeat Educational Repository](https://github.com/rocketseat-education)
 
 ## Installation 
 Use the package manager yarn to install github_explorer packages.
